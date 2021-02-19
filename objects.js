@@ -1,3 +1,3 @@
-playlist = {
+var playlist = {
   theWeekend: 'Die For You'
 }
